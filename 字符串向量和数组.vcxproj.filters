@@ -45,5 +45,23 @@
     <ClCompile Include="10相邻整数求和输出及首尾求和输出.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11迭代器重做题8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12利用迭代器将text的第一段都改为大写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13利用迭代器将vector对象里的值都变成两倍.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14迭代器重做题10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15利用迭代器实现分数分段并记数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16数组默认初始化全局与局部的区别.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

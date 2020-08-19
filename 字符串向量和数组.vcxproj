@@ -140,6 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="10相邻整数求和输出及首尾求和输出.cpp" />
+    <ClCompile Include="11迭代器重做题8.cpp" />
+    <ClCompile Include="12利用迭代器将text的第一段都改为大写.cpp" />
+    <ClCompile Include="13利用迭代器将vector对象里的值都变成两倍.cpp" />
+    <ClCompile Include="14迭代器重做题10.cpp" />
+    <ClCompile Include="15利用迭代器实现分数分段并记数.cpp" />
+    <ClCompile Include="16数组默认初始化全局与局部的区别.cpp" />
     <ClCompile Include="1一次读入一整行，再改为一次读入一个词.cpp" />
     <ClCompile Include="2说明string类的输入运算符和getline如何处理空白字符.cpp" />
     <ClCompile Include="3比较字符串大小长短.cpp" />
